@@ -43,10 +43,12 @@ Overall, my personal portfolio serves as a representation of my skills, experien
 - Pandas
 - NumPy
 - Flask
-- Django
 - Pygame
 - Selenium
 - Beautiful Soup
+- SQLite
+- SQLAlchemy
+- Tulipy
 
 ## Contact
 - Email: [danielpythoncoding@gmail.com](mailto:danielpythoncoding@gmail.com)
