@@ -1,38 +1,4 @@
-Flight Position Tracker
-This is a Python script that tracks flight positions of an airline and sends an email with flight details when a flight arrives at specific airports.
+# Python-Developer-Portfolio
+ Personal portfolio for my Python Development Projects
 
-Getting Started
-To run this script, you will need to have Python installed on your computer. You will also need to install the requests and smtplib modules.
-
-You can install the modules using pip:
-
-bash
-Copy code
-pip install requests
-pip install smtplib
-You will also need to obtain an AviationStack API access key. You can sign up for a free account on the AviationStack website to get an access key.
-
-Usage
-To use this script, open it in a Python IDE or editor and replace the following variables with your own:
-
-python
-Copy code
-avstack_api = "API KEY"
-my_email = "EMAIL"
-password = "PASSWORD"
-The avstack_api variable should be your AviationStack API access key. The my_email and password variables should be the email address and password of the Gmail account you want to use to send the email.
-
-You can also customize the list of target airports by modifying the target_airports variable.
-
-python
-Copy code
-target_airports = ["CPT", "JNB", "PLZ", "GRJ", "KIM", "DUR", "UTN", "HLA", "ELS", "MQP", "BFN", "PRY", "PTG", "RCB", 
-                   "PZB", "MGH", "PHW", "UTT", "QRA", "MBD", "AAM", "AGZ", "SZK", "VIR", "BIY", "NTY", "HDS", "ULD", 
-                   "SIS", "ALJ", "ADY", "KLZ", "GCJ", "SBU", "PBZ", "ELL", "LAY", "NLP", "WEL", "HLW", "LLE", "ROD", 
-                   "NCS", "OVG", "TCU"]
-After modifying the variables, save the script and run it using the following command:
-
-bash
-Copy code
-python flight_tracker.py
-The script will run and check for incoming flights at the target airports. If a flight is detected, it will save the flight details to a text file and send an email with the details as an attachment.
+Welcome to my Python developer portfolio! I am a passionate and driven software engineer with experience in developing applications using Python. In this repository, you will find a collection of my courses/studies and my best work, showcasing my skills and experience in developing software using this powerful programming language. Each project in this portfolio showcases my problem-solving skills, attention to detail, and ability to work with a variety of technologies and tools. I am always seeking new challenges and opportunities to further grow and refine my skills, and I believe that my portfolio demonstrates my dedication and commitment to the field of software development. Thank you for taking the time to visit my portfolio, and I hope you enjoy exploring my work!
