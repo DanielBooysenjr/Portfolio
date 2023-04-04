@@ -13,17 +13,15 @@
 Here are some of the projects I've worked on:
 
 ### Python Projects
-- [Social Media Marketing Automation]: Social Media Marketing Automation is a project aimed at automating marketing activities on social media platforms such as Facebook, Twitter, Instagram, and LinkedIn. The project involves the development of software tools that can be used to create, schedule, and publish marketing content on these platforms automatically.
+- [Social Media Marketing Automation]: As a freelancer, I developed a Facebook Marketing Automation Bot to streamline a company's advertising efforts. The script automates the process of posting specific information on multiple Facebook groups, helping to save time and increase reach. The program also features a reporting module that sends email updates on the success of the campaign.
 
-The tools would allow businesses to save time and resources by automating repetitive marketing tasks such as post scheduling, content creation, and social media account management. Additionally, the project may also involve the development of algorithms that can analyze social media data to provide insights into the effectiveness of marketing campaigns, as well as identify trends and opportunities for optimization.
-
-Overall, the goal of Social Media Marketing Automation is to help businesses improve their social media marketing efforts and achieve better results in terms of engagement, leads, and sales.
 - [Website Scraping for flight detection]: Website scraping for flight location detection is a process of extracting data from airline websites to determine the location of flights. This technique involves using web scraping tools and techniques to extract data from websites and store it in a structured format. The data can then be analyzed to identify patterns and trends in flight locations, which can be used for various purposes such as predicting flight delays and optimizing travel routes.
+
 - [Basic Game Development]: This project involves developing a simple game using Python's Turtle and Pygame libraries. The game includes basic functionalities like player movement, scoring, collision detection, and game over conditions.
 
-The Turtle library is used for 2D graphics and animation, while Pygame is used for audio and game controller support. These libraries provide an easy-to-use interface and allow for quick prototyping and development of simple games.
+- [Financial Markets Automated Trading Bot]:  designed and developed a trading algorithm using Python, showcasing my skills in financial analysis and programming. The algorithm is designed to analyze real-time market data and execute trades based on predetermined parameters. The algorithm features advanced trading strategies and risk management techniques, ensuring consistent profitability while minimizing risk. The trading algorithm was developed using Alpaca, Numpy, Tulipy, Pandas and YFinacne, and has shown impressive results.
 
-Overall, this project serves as an introduction to game development in Python and is a great starting point for those interested in learning more about the subject.
+And much more
 
 ### HTML/CSS/Bootstrap Projects
 - [Personal Porfolio]: My personal portfolio is a responsive web application built using HTML, CSS, Bootstrap, and Flask. The portfolio showcases my skills, projects, and experience in various technologies. The website is fully responsive, meaning it adjusts its layout to fit any device's screen size, making it accessible to a broader audience.
